@@ -87,7 +87,7 @@ I am excited to continue my Python journey! Here's a rough roadmap of what I pla
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/AI-Assistant-Python.git
+    git clone https://github.com/NarmeenAsghar/AI-Assistant-Python.git
     ```
 
 2. Install required libraries:
